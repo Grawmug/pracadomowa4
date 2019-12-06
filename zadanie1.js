@@ -9,4 +9,4 @@ String.prototype.reverse = function () {
         .join("");
 };
 
-console.log("abcdefghijklmnopqrstuvwxyz".reverse());
+console.log("ikar łapał raki".reverse());
