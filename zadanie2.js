@@ -3,8 +3,8 @@
 
 
 Number.prototype.reverse = function () {
-    return 1 / this.valueOf();
+    return 1 / this;
 };
 
-console.log((4).reverse());
+console.log((8).reverse());
 console.log((0).reverse());

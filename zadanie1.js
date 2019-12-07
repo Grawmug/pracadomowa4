@@ -2,11 +2,11 @@
 // The function is to reverse the value of the string on which it was called.
 
 
-String.prototype.reverse = function () {
+// String.prototype.reverse = function () {
 
-    return this.split("")
-        .reverse()
-        .join("");
-};
+//     return this.split("")
+//         .reverse()
+//         .join("");
+// };
 
-console.log("ikar łapał raki".reverse());
+// console.log("ikar łapał raki".reverse());
